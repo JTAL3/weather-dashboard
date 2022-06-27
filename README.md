@@ -4,4 +4,6 @@ This app is designed to be a simple weather search system. Simply search by city
 It has a simple interface and will also collect your past search results.
 Enjoy and I welcome any feedback!
 
+You may acces this site here: https://jtal3.github.io/weather-dashboard/
+
 ![image](https://user-images.githubusercontent.com/97869791/175846875-46f4459f-35d0-493c-9c77-939b232d0fc2.png)
